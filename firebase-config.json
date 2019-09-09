@@ -1,0 +1,9 @@
+{
+  "apiKey": "AIzaSyCVbQ9TQYlmqiu7gg0houxxkKpUPsf6qV4",
+  "authDomain": "realtime-basket.firebaseapp.com",
+  "databaseURL": "https://realtime-basket.firebaseio.com",
+  "projectId": "realtime-basket",
+  "storageBucket": "realtime-basket.appspot.com",
+  "messagingSenderId": "240917181573",
+  "appId": "1:240917181573:web:bedcbae3a3a03507"
+}
