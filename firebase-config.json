@@ -1,9 +1,10 @@
 {
-  "apiKey": "AIzaSyCVbQ9TQYlmqiu7gg0houxxkKpUPsf6qV4",
-  "authDomain": "realtime-basket.firebaseapp.com",
-  "databaseURL": "https://realtime-basket.firebaseio.com",
-  "projectId": "realtime-basket",
-  "storageBucket": "realtime-basket.appspot.com",
-  "messagingSenderId": "240917181573",
-  "appId": "1:240917181573:web:bedcbae3a3a03507"
+  "apiKey": "AIzaSyBhbpH3DmJu_WYctso2g-Q0yzqI8dFR7Gs",
+  "authDomain": "pet-food-experts-local.firebaseapp.com",
+  "databaseURL": "https://pet-food-experts-local.firebaseio.com",
+  "projectId": "pet-food-experts-local",
+  "storageBucket": "pet-food-experts-local.appspot.com",
+  "messagingSenderId": "867003862004",
+  "appId": "1:867003862004:web:fafddc7294de80f277c7a1",
+  "measurementId": "G-P2PDN9QW76"
 }
